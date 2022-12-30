@@ -1,0 +1,9 @@
+1,1,Administracija,true
+2,2,Administracija,true
+3,3,Administracija,true
+4,4,Administracija,true
+5,3,Servisas,true
+6,2,Pardavimai,true
+7,2,Pirkimai,true
+8,4,Sandelelis,true
+9,3,Gamyba,true

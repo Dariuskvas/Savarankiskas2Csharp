@@ -1,0 +1,4 @@
+1,Siaurinis iejimas,true
+2,Pietinis iejimas,true
+3,Rytinis iejimas,true
+4,Vakarinis iejimas,true
