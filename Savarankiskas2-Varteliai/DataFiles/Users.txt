@@ -1,0 +1,10 @@
+1,Jonas,Administracija,FullDay,50,true
+2,Petras,Administracija,FullDay,45,true
+3,Juozas,Servisas,FullDay,60,true
+4,Darius,Pardavimai,FullDay,50,true
+5,Mantas,Pirkimai,FullDay,60,true
+6,Rasa,Sandelelis,FullDay,40,true
+7,Vaiva,Administracija,FullDay,100,true
+8,Andreja,Pardavimai,FullDay,70,true
+9,Austeja,Gamyba,FullDay,80,true
+10,Laura,Pardavimai,FullDay,85,true
